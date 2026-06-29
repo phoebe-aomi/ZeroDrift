@@ -105,5 +105,5 @@ dyn_aomi_app!(
     version = "0.1.0",
     preamble = "Autonomous Limitless alpha catalyst. Search markets, get live pricing, generate trade proposals.",
     tools = [SearchTool, OrderbookTool, TradeTool],
-    namespaces = ["defi"],
+    namespaces = ["evm-core"],
 );
